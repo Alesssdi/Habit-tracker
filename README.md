@@ -8,7 +8,7 @@ The React application for creating and tracking habits. Users can add habits, se
 - Add Habits
 - Track Progress
 - Mark Completion
-- Automatic Reset:
+- Automatic Reset
 
 
 ## Built With:
