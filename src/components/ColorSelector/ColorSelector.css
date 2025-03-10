@@ -1,0 +1,20 @@
+.color-selector {
+    display: flex;
+    gap: 10px;
+    margin: 30px 0;
+}
+
+
+.color-square {
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: border-color 0.3s;
+}
+
+.color-square.selected {
+    border-color: #4a49579f;
+}
+

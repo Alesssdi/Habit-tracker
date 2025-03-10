@@ -1,0 +1,38 @@
+
+.input-days-container {
+    padding: 0 15px 0 11px;
+    gap: 1rem;
+}
+
+
+.star-icon {
+    width: 25px;
+    height: 25px;
+}
+
+
+.days-text{
+    font-size: 20px;
+    margin: 0;
+    /* color:red */
+}
+
+
+.days-input {
+    max-width: 50px;
+    background-color: rgb(238, 237, 245);
+    outline: none;
+    margin-left: 30px;
+    border:none;
+    font-size: 18px;
+    font-family: "Mulish", sans-serif;
+    color:#213547
+}
+
+
+
+.days-input[type="number"]::-webkit-outer-spin-button,
+.days-input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0; 
+}
